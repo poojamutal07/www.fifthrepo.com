@@ -12,7 +12,16 @@ font-style: italic;
 height: 500px;
 width: 500px;
 background-color: rebeccapurple;
-
-
-
+color: black;
+font-style: oblique;
+text-align: center;
+text-shadow: 5;
+font-size: 50px;
+}
+.content{
+    
+    background-color: black;
+    color: azure;
+    height: 400px;
+    width: 450px;
 }
